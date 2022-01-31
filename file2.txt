@@ -1,4 +1,4 @@
 AAAA
-line1
+BBBB
 line2
 line3
